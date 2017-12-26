@@ -1,5 +1,5 @@
 Squid:
-  image: seozed/docker-squid:0.1
+  image: seozed/docker-squid:latest
   ports:
     - "3128:3128"
   volumes:
